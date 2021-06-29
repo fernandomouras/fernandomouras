@@ -19,4 +19,8 @@ The more I study and understand technology, the more I feel that nothing in the 
 
 - 📫 How to reach me: fernando@phersonal.com.br
 
-<a href="https://www.linkedin.com/in/fernandomourasilva/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/apple/apple-original.svg" heigth="56" width="56" alt="Linkedin"/></a>
+<a href="https://www.linkedin.com/in/fernandomourasilva/" target="_blank"><img src="https://user-images.githubusercontent.com/58957805/123828774-36459f00-d8d8-11eb-8b59-47966b481831.png" heigth="56" width="56" alt="Linkedin"/></a>
+
+<a href="mailto:fernando@phersonal.com.br" target="_blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/55px/mail.png?raw=true" heigth="56" width="56" alt="E-mail"/></a>
+
+<a href="https://wa.me/551940420801" target="_blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/55px/whatsapp.png?raw=true" heigth="56" width="56" alt="Whatsapp"/></a>
