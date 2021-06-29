@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**fernandomouras/fernandomouras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fernando Moura. I'm a Full Stack Web and Mobile Developer.
+Currently my stack is:
 
-Here are some ideas to get you started:
+- 💻 Web front-end development with ReactJS.
+- 📱  Mobile applications for Android and iOS with React Native.
+- 📡 API with Node.js.
+- 💾 Database: Mongo, Firebase, SQL Server, MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Next.js
+- 🌱 I’m currently learning TensorFlow.js.
+
+- 💜 I love technology and I'm always learning.
+The more I study and understand technology, the more I feel that nothing in the universe is out of reach.
+
+- 📫 How to reach me: fernando@phersonal.com.br
