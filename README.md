@@ -4,7 +4,13 @@ I'm Fernando Moura. I'm a Full Stack Web and Mobile Developer.
 
 Currently my stack is:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" heigth="45" width="45" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" heigth="56" width="56" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" heigth="56" width="56" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" heigth="56" width="56" alt="Javascript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" heigth="56" width="56" alt="Typescript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" heigth="56" width="56" alt="NodeJS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" heigth="56" width="56" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nextjs/nextjs-original.svg" heigth="56" width="56" alt="NextJS"/>
 
 - 💻 Web front-end development with ReactJS.
 - 📱  Mobile applications for Android and iOS with React Native.
