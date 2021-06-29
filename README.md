@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Fernando Moura. I'm a Full Stack Web and Mobile Developer.
+
 Currently my stack is:
 
 - 💻 Web front-end development with ReactJS.
