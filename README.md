@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Fernando Silva. 👨‍🦲 
+
 Javascript Full Stack Developer.
 
 Currently my stack is:
