@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Fernando Silva. 👨‍🦲 
-Full Stack Web and Mobile Developer.
+Javascript Full Stack Developer.
 
 Currently my stack is:
 
